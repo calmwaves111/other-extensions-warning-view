@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "other-extensions-warning-view",
+	"name": "Warningview for other extensions",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "给其他后缀的文件一个标签页而不是直接在外部应用打开",
+	"author": "calmwaves",
+	"authorUrl": "https://github.com/calmwaves111",
+	"fundingUrl": "https://github.com/calmwaves111",
+	"isDesktopOnly": true
 }
